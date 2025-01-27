@@ -7,6 +7,3 @@ RUN
 npm i
 
 node index.js
-
-Contoh Desainnya
-![image](https://github.com/user-attachments/assets/6d5d6eba-ea91-415d-98b2-ce0e30fb07bb)
